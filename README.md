@@ -2,7 +2,7 @@
 
 > Clinical and operational AI with HIPAA-grade guardrails.
 
-AI platform for healthcare providers — documentation, scheduling, triage and compliance. Part of the **Zion AI App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+AI platform for healthcare providers — documentation, scheduling, triage and compliance. Part of the **Zion AI App Network** — 600+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
 **Live app:** https://ziontechgroup.com/ai-healthcare-platform/
 
@@ -20,14 +20,16 @@ AI platform for healthcare providers — documentation, scheduling, triage and c
 - Automate patient communication without compliance risk
 
 ## Related Apps in the Zion App Network
+- [ai-health-tracker](https://github.com/Zion-support/ai-health-tracker) — wellness insights: https://ziontechgroup.com/ai-health-tracker/
+- [ai-education-platform](https://github.com/Zion-support/ai-education-platform) — AI tutoring: https://ai-education-platform.ziontechgroup.com
+- [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) — https://ziontechgroup.com/ai-language-tutor/
 - [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — https://ziontechgroup.com/zion-ai-compliance-scanner/
 - [ai-automated-booking](https://github.com/Zion-support/ai-automated-booking) — https://ziontechgroup.com/ai-automated-booking/
-- [zion-ai-voice-translator](https://github.com/Zion-support/zion-ai-voice-translator)
 - [ai-billing-automation](https://github.com/Zion-support/ai-billing-automation) — https://ziontechgroup.com/ai-billing-automation/
-- [ai-industry-solutions](https://github.com/Zion-support/ai-industry-solutions) — https://ziontechgroup.com/ai-industry-solutions/
 
 ## Explore the Network
-- 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
+- 📓 Category: [Healthcare & Education AI](https://github.com/Zion-support/zion-network/blob/main/network/healthcare-education-ai.md) · 📣 Spotlight: [Healthcare & Education AI suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/healthcare-education-ai.md)
+- 🕸️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
 - 🌐 Homepage: https://ziontechgroup.com
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
